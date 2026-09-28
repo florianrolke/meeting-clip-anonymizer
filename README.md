@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`meeting-clip-anonymizer`](https://github.com/florianrolke/community-resources/tree/main/meeting-clip-anonymizer) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # Meeting Clip Anonymizer
 
 Turn a recorded call (Zoom/Meet/Fathom) into polished, branded short clips — while **protecting the
